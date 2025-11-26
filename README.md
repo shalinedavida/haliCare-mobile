@@ -1,1 +1,1 @@
-# haliCare-mobile
+# halicare-mobile

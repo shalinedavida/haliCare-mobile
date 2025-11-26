@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466947213965",
+    "project_id": "halicare-6ceca",
+    "storage_bucket": "halicare-6ceca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466947213965:android:8a04bfd76a66ea123570c4",
+        "android_client_info": {
+          "package_name": "com.halicare.halicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9K0qWeOpfeHjnfHcY0zLu_wM6XdRBIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
